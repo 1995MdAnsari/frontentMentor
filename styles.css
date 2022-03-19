@@ -1,0 +1,76 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: darkgray;
+
+}
+
+.container{
+	text-align: center;
+	margin-top: 100px ;
+}
+.container .row{
+	text-align: justify;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.firstSec  {
+	border: 1px solid whiteness(0%);
+	text-align: justify;
+	background-color: white;
+
+}
+.firstSec h3{
+	color: rgb(0, 255, 255);
+	font-family: sans-serif;
+	font-weight: 100;
+	margin-top: 20px;
+}
+.firstSec .para1{
+	color:rgb(217,255,12);
+	font-family: sans-serif;
+	font-weight: 200;
+
+}
+.firstSec .para2{
+	color: darkgray;
+}
+
+.container .row .btn{
+	text-align: center;
+	width: 80%;
+	border: none;
+	background-color:rgb(217,255,12)
+
+
+}
+.container .row .secondDiv1{
+	background-color: #02AFBD;
+}
+.container .row .secondDiv1 .amount{
+	color: white;
+	font-size: 20px;
+}
+.container .row .secondDiv1 h3{
+	color: white;
+	margin-top: 10px;
+}
+.container .row .secondDiv1 .sec1Para{
+	color: white;
+	font-family: sans-serif;
+}
+.container .row .secondDiv2{
+	background-color: #0BCBD9;
+}
+.container .row .secondDiv2 h3{
+	margin-top: 10px;
+	color: white;
+	font-family: sans-serif;
+}
+.container .row .secondDiv2 ul.sec2Para{
+	color: white;
+	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+	margin-bottom: 20px;
+}
